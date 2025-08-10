@@ -1,6 +1,6 @@
 
 
-I took a look at the GitHub repo **Hybrid-Search-RAG-With-Vector-Database-And-Langchain**, but the README file appears empty or missing—there’s no description in the 
+I took a look at the GitHub repo **Hybrid--With-Vector-Database-And-Langchain**, but the README file appears empty or missing—there’s no description in the 
 # Hybrid Search RAG with Vector Database & LangChain
 
 A robust Retrieval-Augmented Generation (RAG) application combining hybrid search techniques—vector similarity and keyword search—using LangChain framework and a vector database backend for improved semantic relevance and retrieval accuracy.
